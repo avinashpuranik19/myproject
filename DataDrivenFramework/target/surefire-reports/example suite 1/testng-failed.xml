@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [example suite 1]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="Regression suite 1(failed)">
+    <classes>
+      <class name="com.w2a.testcases.AddCustomerTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="addCustomer"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.w2a.testcases.AddCustomerTest -->
+    </classes>
+  </test> <!-- Regression suite 1(failed) -->
+</suite> <!-- Failed suite [example suite 1] -->

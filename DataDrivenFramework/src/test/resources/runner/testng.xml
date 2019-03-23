@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="example suite 1" >
+<listeners>
+<listener class-name="org.uncommons.reportng.HTMLReporter"/>
+<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+<listener class-name="com.w2a.listeners.CustomListeners"/>
+</listeners>
+  <test name="Regression suite 1" >
+    <classes>
+      <class name="com.w2a.testcases.BankManagerLoginTest"/>
+      <!-- <class name="com.w2a.testcases.AddCustomerTest"/> -->
+           </classes>
+ </test>
+</suite>
