@@ -131,8 +131,7 @@ public class TestBase {
 		
 		driver.findElement(By.xpath(OR.getProperty(locator))).sendKeys(value);
 		test.log(LogStatus.INFO, "Typing value " + locator);
-		
-		
+				
 		
 	}
 	
@@ -173,8 +172,8 @@ public class TestBase {
 	
 	
 	
-	
+	}
 	
 	
 
-}
+
