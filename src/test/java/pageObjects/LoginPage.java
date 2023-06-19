@@ -50,5 +50,10 @@ public class LoginPage {
     public void clickLogout() {
         lnkLogout.click();
     }
+    
+    public void newmethodcode()
+    {
+    	System.out.println("new method code in login page");
+    }
 
 }

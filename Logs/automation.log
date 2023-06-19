@@ -123,3 +123,18 @@
 2023-06-17 23:15:24,167  INFO [main] nopcommerce:98 - *********Login Validation starts ***************
 2023-06-17 23:15:24,178  INFO [main] nopcommerce:107 - *********Login successfull ***************
 2023-06-17 23:15:24,183  INFO [main] nopcommerce:122 - *********Closing application ***************
+2023-06-18 23:16:24,097  INFO [main] nopcommerce:70 - ********* Launching browser***************
+2023-06-18 23:16:24,118  INFO [main] nopcommerce:76 - ********* Opening URL***************
+2023-06-18 23:16:25,863  INFO [main] nopcommerce:84 - ********* Proving user info ***************
+2023-06-18 23:16:30,559  INFO [main] nopcommerce:98 - *********Login Validation starts ***************
+2023-06-18 23:16:30,604  INFO [main] nopcommerce:107 - *********Login successfull ***************
+2023-06-18 23:16:30,612  INFO [main] nopcommerce:116 - *********Logout from application***************
+2023-06-19 09:36:36,409  INFO [main] nopcommerce:70 - ********* Launching browser***************
+2023-06-19 09:36:36,427  INFO [main] nopcommerce:76 - ********* Opening URL***************
+2023-06-19 09:36:38,342  INFO [main] nopcommerce:84 - ********* Proving user info ***************
+2023-06-19 09:36:42,553  INFO [main] nopcommerce:98 - *********Login Validation starts ***************
+2023-06-19 09:36:42,598  INFO [main] nopcommerce:107 - *********Login successfull ***************
+2023-06-19 09:36:42,606  INFO [main] nopcommerce:116 - *********Logout from application***************
+2023-06-19 09:36:44,361  INFO [main] nopcommerce:98 - *********Login Validation starts ***************
+2023-06-19 09:36:44,381  INFO [main] nopcommerce:107 - *********Login successfull ***************
+2023-06-19 09:36:44,386  INFO [main] nopcommerce:122 - *********Closing application ***************
