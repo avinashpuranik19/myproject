@@ -36,6 +36,6 @@ public class BaseClass {
     	WebElement element=wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(xpath)));
 
     }
-    
+          
 
 }
