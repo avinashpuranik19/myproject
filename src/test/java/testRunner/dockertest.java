@@ -11,17 +11,17 @@ public class dockertest {
 	public static void main(String[] args) throws MalformedURLException {
 		// TODO Auto-generated method stub
 		
-		DesiredCapabilities dc = DesiredCapabilities.chrome();
-		
-		URL url = new URL("http://localhost:4444/wd/hub");
-		
-		RemoteWebDriver driver = new RemoteWebDriver(url,dc);
-		
-		driver.get("http://www.google.co.in");
-		
-		System.out.println(driver.getTitle());
-		
-		driver.quit();
+//		DesiredCapabilities dc = DesiredCapabilities.chrome();
+//		
+//		URL url = new URL("http://localhost:4444/wd/hub");
+//		
+//		RemoteWebDriver driver = new RemoteWebDriver(url,dc);
+//		
+//		driver.get("http://www.google.co.in");
+//		
+//		System.out.println(driver.getTitle());
+//		
+//		driver.quit();
 		
 
 	}

@@ -138,3 +138,9 @@
 2023-06-19 09:36:44,361  INFO [main] nopcommerce:98 - *********Login Validation starts ***************
 2023-06-19 09:36:44,381  INFO [main] nopcommerce:107 - *********Login successfull ***************
 2023-06-19 09:36:44,386  INFO [main] nopcommerce:122 - *********Closing application ***************
+2023-06-27 09:58:04,489  INFO [main] nopcommerce:70 - ********* Launching browser***************
+2023-06-27 09:58:04,507  INFO [main] nopcommerce:76 - ********* Opening URL***************
+2023-06-27 09:58:06,299  INFO [main] nopcommerce:84 - ********* Proving user info ***************
+2023-06-27 09:58:12,643  INFO [main] nopcommerce:98 - *********Login Validation starts ***************
+2023-06-27 09:58:12,677  INFO [main] nopcommerce:107 - *********Login successfull ***************
+2023-06-27 09:58:12,688  INFO [main] nopcommerce:116 - *********Logout from application***************
