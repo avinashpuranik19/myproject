@@ -1,5 +1,5 @@
 package pageObjects;
-//Code by Avinash on feature
+//Code by Avinash on feature - Retest again
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
@@ -9,11 +9,7 @@ import org.openqa.selenium.support.ui.Select;
 
 public class AddcustomerPage {
     public WebDriver ldriver;
-    //added my page
-    public void mypage()
-    {
-    	
-    }
+  
 
     public AddcustomerPage(WebDriver rdriver)
     {
