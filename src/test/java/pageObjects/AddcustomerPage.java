@@ -9,11 +9,7 @@ import org.openqa.selenium.support.ui.Select;
 
 public class AddcustomerPage {
     public WebDriver ldriver;
-    //added my page
-    public void mypage()
-    {
-    	
-    }
+  
 
     public AddcustomerPage(WebDriver rdriver)
     {
